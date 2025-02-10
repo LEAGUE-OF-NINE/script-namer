@@ -1,0 +1,3 @@
+[submodule "limbusstaticdata"]
+	path = limbusstaticdata
+	url = https://github.com/league-of-nine/limbusstaticdata
